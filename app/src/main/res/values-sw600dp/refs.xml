@@ -1,0 +1,6 @@
+<resources>
+    <!--
+    Layout alias replaces the activity_route_list with the two pane version
+    -->
+    <item type="layout" name="activity_route_list">@layout/activity_route_twopane</item>
+</resources>
